@@ -1,0 +1,8 @@
+C:\Users\Saikava\Desktop\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe
+C:\Users\Saikava\Desktop\FileSearcher\FileSearcher\bin\Debug\FileSearcher.pdb
+C:\Users\Saikava\Desktop\FileSearcher\FileSearcher\obj\Debug\FileSearcher.MainWindow.resources
+C:\Users\Saikava\Desktop\FileSearcher\FileSearcher\obj\Debug\FileSearcher.Properties.Resources.resources
+C:\Users\Saikava\Desktop\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csproj.GenerateResource.Cache
+C:\Users\Saikava\Desktop\FileSearcher\FileSearcher\obj\Debug\FileSearcher.exe
+C:\Users\Saikava\Desktop\FileSearcher\FileSearcher\obj\Debug\FileSearcher.pdb
+C:\Users\Saikava\Desktop\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csprojResolveAssemblyReference.cache
